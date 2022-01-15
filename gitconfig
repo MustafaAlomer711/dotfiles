@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mustafa_05@msn.com
+	name = Mustafa Alomer
